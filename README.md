@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @hannnnzz
-- 👀 I’m interested in food
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- Nothing To See Here ^_
 
 <!---
 hannnnzz/hannnnzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
